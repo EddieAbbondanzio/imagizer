@@ -1,0 +1,6 @@
+C:\Users\Eddie\Development\blog\utils\Imagizer\Imagizer\bin\Debug\Imagizer.exe.config
+C:\Users\Eddie\Development\blog\utils\Imagizer\Imagizer\bin\Debug\Imagizer.exe
+C:\Users\Eddie\Development\blog\utils\Imagizer\Imagizer\bin\Debug\Imagizer.pdb
+C:\Users\Eddie\Development\blog\utils\Imagizer\Imagizer\obj\Debug\Imagizer.csprojResolveAssemblyReference.cache
+C:\Users\Eddie\Development\blog\utils\Imagizer\Imagizer\obj\Debug\Imagizer.exe
+C:\Users\Eddie\Development\blog\utils\Imagizer\Imagizer\obj\Debug\Imagizer.pdb
