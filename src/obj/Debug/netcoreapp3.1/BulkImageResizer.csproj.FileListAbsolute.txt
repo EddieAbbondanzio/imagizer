@@ -1,0 +1,11 @@
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/obj/Debug/netcoreapp3.1/BulkImageResizer.csprojAssemblyReference.cache
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/obj/Debug/netcoreapp3.1/BulkImageResizer.AssemblyInfoInputs.cache
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/obj/Debug/netcoreapp3.1/BulkImageResizer.AssemblyInfo.cs
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/bin/Debug/netcoreapp3.1/BulkImageResizer
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/bin/Debug/netcoreapp3.1/BulkImageResizer.deps.json
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/bin/Debug/netcoreapp3.1/BulkImageResizer.runtimeconfig.json
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/bin/Debug/netcoreapp3.1/BulkImageResizer.runtimeconfig.dev.json
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/bin/Debug/netcoreapp3.1/BulkImageResizer.dll
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/bin/Debug/netcoreapp3.1/BulkImageResizer.pdb
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/obj/Debug/netcoreapp3.1/BulkImageResizer.dll
+/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/obj/Debug/netcoreapp3.1/BulkImageResizer.pdb
