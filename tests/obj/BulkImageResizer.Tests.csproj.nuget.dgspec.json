@@ -36,13 +36,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "CoreCompat.System.Drawing": {
+            "SixLabors.ImageSharp": {
               "target": "Package",
-              "version": "[1.0.0-beta006, )"
-            },
-            "runtime.linux-x64.CoreCompat.System.Drawing": {
-              "target": "Package",
-              "version": "[1.0.0-beta009, )"
+              "version": "[1.0.0-beta0007, )"
             }
           },
           "imports": [
