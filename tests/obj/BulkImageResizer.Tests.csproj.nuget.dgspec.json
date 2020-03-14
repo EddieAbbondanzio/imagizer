@@ -4,6 +4,66 @@
     "/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/tests/BulkImageResizer.Tests.csproj": {}
   },
   "projects": {
+    "/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/BulkImageResizer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/BulkImageResizer.csproj",
+        "projectName": "BulkImageResizer",
+        "projectPath": "/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/BulkImageResizer.csproj",
+        "packagesPath": "/home/ed/.nuget/packages/",
+        "outputPath": "/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ed/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "CoreCompat.System.Drawing": {
+              "target": "Package",
+              "version": "[1.0.0-beta006, )"
+            },
+            "runtime.linux-x64.CoreCompat.System.Drawing": {
+              "target": "Package",
+              "version": "[1.0.0-beta009, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/tests/BulkImageResizer.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -24,7 +84,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/BulkImageResizer.csproj": {
+                "projectPath": "/media/ed/Extra Space/Development/Projects/Bulk-Image-Resizer/src/BulkImageResizer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
